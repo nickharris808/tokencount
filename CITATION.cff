@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "tokencount: a token count both parties can recompute"
+abstract: >-
+  a token count both parties can recompute
+authors:
+  - family-names: Harris
+    given-names: Nick
+repository-code: "https://github.com/nickharris808/tokencount"
+url: "https://github.com/nickharris808/tokencount"
+license: Apache-2.0
+type: software
+keywords:
+  - verification
+  - abstention
+  - reproducibility
