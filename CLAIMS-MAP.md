@@ -41,4 +41,4 @@ agreed merge list**.
 It does not settle on the strength of that. A metering path that refuses to write a settlement
 record when the claimed count exceeds the computed count, and binds both into a tamper-evident
 chain so a dispute is resolved by recomputation rather than by trust, is a separate,
-commercially licensed product covered by the drafted claims above.
+commercially licensed product and the subject of the drafted claims above.
